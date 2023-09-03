@@ -6,6 +6,11 @@
     <title>Document</title>
 </head>
 <body>
-    
+    <form>
+        <input type="text" placeholder="Username" value="" class="" id="" >
+        <input type="password" placeholder="password"  value="" class="" id="">
+
+        <button type="submit" class="" id="">Login</button>
+    </form>
 </body>
 </html>
